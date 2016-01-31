@@ -2,9 +2,9 @@
 
 Christine Fruehling
 
-## Project name
+## Project Name
 
-Wk4CodeReviewProject
+alfomila
 
 ## Description of Project
 
