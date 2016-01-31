@@ -1,0 +1,29 @@
+body {
+  margin: 15px auto auto 10px;
+}
+
+.handsjumbotron {
+  color: #003399;
+  background-color: #ff0066;
+  text-align: center;
+  border: 2px solid #009933;
+  padding: 4px;
+}
+
+img {
+    float: right;
+
+}
+
+h2 {
+  color: #003399;
+}
+
+.important {
+  color: red;
+  font-size: 15px;
+}
+
+.amazing {
+  color: #003399;
+}
